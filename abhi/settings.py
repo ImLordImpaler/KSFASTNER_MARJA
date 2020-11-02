@@ -25,7 +25,7 @@ SECRET_KEY = 'p)_vql_+!q2p_xroibdwnoka8w9)&khr!ljgj1x6s$6+0xa8(9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ksfastners.herokuapp.com]
+ALLOWED_HOSTS = ['ksfastners.herokuapp.com']
 
 
 # Application definition
